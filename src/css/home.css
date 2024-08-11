@@ -1,0 +1,30 @@
+.h11{
+    height: 1200px;
+    background-color: aquamarine;
+}
+.home{
+    padding-top: 130px;
+}
+/* #home{
+    background-color: red;
+} */
+
+ .back_top {
+    text-align: center;
+    position: fixed;
+    bottom: 15px;
+    height: 35px;
+    width: 35px;
+    background-color: #2ed078;
+    display: none;
+    z-index: 10000;
+    border-radius: 3px;
+    right: 20px;
+    transition: all 0.5s;
+}
+.back_top i {
+    color: #fff;
+    line-height: 35px;
+    font-size: 14px;
+    display: block;
+}
